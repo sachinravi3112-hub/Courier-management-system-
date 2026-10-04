@@ -1,0 +1,10 @@
+{
+  "name": "swiftroute-courier-management-system",
+  "version": "1.0.0",
+  "description": "Courier Management System — Customer, Courier, Delivery Agent, Branch and Payment workflow with tracking and dashboard reports. Runs standalone in the browser.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
